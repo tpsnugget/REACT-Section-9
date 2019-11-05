@@ -10,4 +10,11 @@
 # Version 3:
    State added
    Setup logic so that no image shows until after the first flip
+
+# Repo: REACT-Section-9
+# Repo Description: Colt Steele's Modern React Bootcamp, Section 9, State Exercises
+# Chapter 66: Color Boxes Exercise
+   Basic files are setup
+
+# Color Boxes Exercise Version 2
    
